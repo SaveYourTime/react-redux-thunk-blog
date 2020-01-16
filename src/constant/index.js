@@ -1,0 +1,1 @@
+export const avatars = ['tom', 'christian', 'helen', 'elliot', 'daniel', 'stevie', 'matt', 'jenny', 'veronika'];
